@@ -1,10 +1,13 @@
 {
-  "name": "react-photo-view",
+  "name": "@fabianbarua/react-photo-view",
   "version": "1.2.6",
   "description": "An exquisite React photo preview component",
-  "author": "MinJieLiu",
+  "author": "FabianBarua",
   "license": "Apache-2.0",
-  "repository": "https://github.com/MinJieLiu/react-photo-view.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabianBarua/react-photo-view.git"
+  },
   "source": "src/index.ts",
   "main": "./dist/react-photo-view.js",
   "module": "./dist/react-photo-view.module.js",
@@ -40,5 +43,9 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "bugs": {
+    "url": "https://github.com/FabianBarua/react-photo-view/issues"
+  },
+  "homepage": "https://github.com/FabianBarua/react-photo-view#readme"
 }
